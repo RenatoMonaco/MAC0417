@@ -1,6 +1,11 @@
 # MAC0417
 Repositório dos EPs do curso MAC0417 2021
 
+### Integrantes do grupo:
+- Carolene Bertoldi
+- Felipe Varella
+- Renato Monaco Nunes
+
 ### Dataset
 https://drive.google.com/drive/folders/14gaPbhQjMjgRel7WXKC6nlsozW31ZOMa?usp=sharing
 
